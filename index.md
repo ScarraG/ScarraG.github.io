@@ -6,7 +6,7 @@ title: ""
 <table style="width:100%; background: transparent; border-collapse: collapse;">
   <tr>
     <td style="width:50%; border: none;">
-    <img src="https://github.com/ScarraG/ScarraG.github.io/blob/main/head.jpg"
+    <img src="https://github.com/ScarraG/ScarraG.github.io/blob/main/head.jpg?raw=TRUE"
          alt="Figure">
     </td>
     <td style="padding-left: 10px; border: none;">
