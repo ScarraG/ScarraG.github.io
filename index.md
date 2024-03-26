@@ -38,30 +38,28 @@ Hello! I am Yijia Gao, a Ph.D. candidates in
 [Enocomic Department](https://econ.uconn.edu)
 at the [University of Connecticut](https://uconn.edu).
 
-My research interests are 
+My research interests are Enviornment Economics and Applied Econometrics.
 
-Besides my own research, I am a graudate assistant
+Besides my own research, I am a teaching assistant 
 
 
 # Honors and Awards
 
-* 
-
-* 
-
-
+* The 2020 to 2022 Eleanor Bloom Fellowships, University of Connecticut
+* The 2020 Timothy A. and Beverly C. Holt Economics Fellowship, University of Connecticut 
+* The 2017 Dean’s List, Renmin University of China.
+  
 # Project in Progress
 
-* 
-* 
-* 
+* Performance Ranking and Cheating of Local Governments in Environmental Tournaments
+* Designing an Ecolabel Program with Relative Standards
+* Regional disparity and environmental centralization
 
 
 # Skills
 
-* Proficient in R and in using the interface between R and C/C++.
-* Clean and analyze medical data using SAS. I have passed the SAS Base Programming Exam in 2019.
-* Familar with Parllel computing in R using High Performance Computing (HPC) Cluster.
+* Proficient in R.
+* Basic usage for Stata, Matlab and SQL.
 * Basic librarys for Python: NumPy and Pandas.
 * I love learning programming languages and emerging technologies.
 
