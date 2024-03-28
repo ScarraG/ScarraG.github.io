@@ -45,12 +45,10 @@ Besides my own research, I am a teaching assistant at University of Connecticut.
 My teaching experience fostered my abilities in time management, organization, and working under pressure, 
 while maintaining a high standard of accuracy and attention to detail.
 
-# Project 
+
+# Projects
 
 * Performance Ranking and Cheating of Local Governments in Environmental Tournaments
-
-# Project in Progress
-
 * Designing an Ecolabel Program with Relative Standards
 * Regional disparity and environmental centralization
 
@@ -62,9 +60,9 @@ while maintaining a high standard of accuracy and attention to detail.
   
 # Skills
 
-* Proficient in R.
-* Basic usage for Stata, Matlab and SQL.
-* Basic librarys for Python: NumPy and Pandas.
+* Proficient in R and Stata.
+* Familiar with Matlab and SQL.
+* Familiar with Python and its libraries: NumPy, Matplotlib and Pandas.
 * I love learning programming languages and emerging technologies.
 
 
