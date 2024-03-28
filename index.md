@@ -38,10 +38,21 @@ Hello! I am Yijia Gao, a Ph.D. candidates in
 [Enocomic Department](https://econ.uconn.edu)
 at the [University of Connecticut](https://uconn.edu).
 
-My research interests are Enviornment Economics and Applied Econometrics.
+My research interests are Enviornment Economics and Applied Econometrics. I have been focusing on the 
+design of incentive instruments in environmental policy for three years.
 
-Besides my own research, I am a teaching assistant 
+Besides my own research, I am a teaching assistant at University of Connecticut. 
+My teaching experience fostered my abilities in time management, organization, and working under pressure, 
+while maintaining a high standard of accuracy and attention to detail.
 
+# Project 
+
+* Performance Ranking and Cheating of Local Governments in Environmental Tournaments
+
+# Project in Progress
+
+* Designing an Ecolabel Program with Relative Standards
+* Regional disparity and environmental centralization
 
 # Honors and Awards
 
@@ -49,13 +60,6 @@ Besides my own research, I am a teaching assistant
 * The 2020 Timothy A. and Beverly C. Holt Economics Fellowship, University of Connecticut 
 * The 2017 Dean’s List, Renmin University of China.
   
-# Project in Progress
-
-* Performance Ranking and Cheating of Local Governments in Environmental Tournaments
-* Designing an Ecolabel Program with Relative Standards
-* Regional disparity and environmental centralization
-
-
 # Skills
 
 * Proficient in R.
