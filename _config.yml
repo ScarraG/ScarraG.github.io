@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md"}
-  - {title: "CV", url: "https://drive.google.com/file/d/1kadnCXX3DaH9KPeGOuvHpZp-2PgKZ0n0/view?usp=sharing"}
+  - {title: "CV", url: "https://drive.google.com/file/d/1BZvkRFvsRxdUbnXKfVjizu7x4rxGSZu1/view?usp=sharing"}
 
 
 
