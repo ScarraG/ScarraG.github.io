@@ -51,6 +51,7 @@ while maintaining a high standard of accuracy and attention to detail.
 * Environmental Centralization Reform and Cleaning near Monitoring Stations
 * Performance Ranking and Cheating of Local Governments in Environmental Tournaments
 * Designing an Ecolabel Program with Relative Standards
+* Spatial Spillover of ESG Advantages on Economic Development in China
 
 # Honors and Awards
 
